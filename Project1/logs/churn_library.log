@@ -1,0 +1,60 @@
+2024-04-27 21:31:35,607 - my_logger - INFO - Importing datat from : ./data/bank_data.csv
+2024-04-27 21:31:35,634 - my_logger - INFO - Importing datat from : ./data/bank_data.csv
+2024-04-27 21:31:35,656 - my_logger - INFO - Performing EDA
+2024-04-27 21:31:37,396 - my_logger - INFO - Encoding data
+2024-04-27 21:31:37,413 - my_logger - INFO - Feature Engineering
+2024-04-27 21:31:37,413 - my_logger - INFO - Encoding data
+2024-04-27 21:31:37,430 - my_logger - INFO - Feature Engineering
+2024-04-27 21:31:37,430 - my_logger - INFO - Encoding data
+2024-04-27 21:31:37,446 - my_logger - INFO - Training Model
+2024-04-27 21:34:42,388 - my_logger - INFO - saving best model
+2024-04-27 21:34:42,809 - my_logger - INFO - Generating Classification Reports
+2024-04-27 21:34:43,244 - my_logger - INFO - Generating Feature Importance Reports
+2024-04-28 00:13:52,602 - my_logger - INFO - Importing datat from : ./data/bank_data.csv
+2024-04-28 00:13:52,625 - my_logger - INFO - Importing datat from : ./data/bank_data.csv
+2024-04-28 00:13:52,647 - my_logger - INFO - Performing EDA
+2024-04-28 00:13:54,337 - my_logger - INFO - Encoding data
+2024-04-28 00:13:54,353 - my_logger - INFO - Feature Engineering
+2024-04-28 00:13:54,354 - my_logger - INFO - Encoding data
+2024-04-28 00:13:54,369 - my_logger - INFO - Feature Engineering
+2024-04-28 00:13:54,369 - my_logger - INFO - Encoding data
+2024-04-28 00:13:54,388 - my_logger - INFO - Training Model
+2024-04-28 00:16:52,771 - my_logger - INFO - saving best model
+2024-04-28 00:16:53,185 - my_logger - INFO - Generating Classification Reports
+2024-04-28 00:16:53,515 - my_logger - INFO - Generating Feature Importance Reports
+2024-04-28 00:23:17,031 - my_logger - INFO - Importing datat from : ./data/bank_data.csv
+2024-04-28 00:23:17,058 - my_logger - INFO - Importing datat from : ./data/bank_data.csv
+2024-04-28 00:23:17,081 - my_logger - INFO - Performing EDA
+2024-04-28 00:23:18,745 - my_logger - INFO - Encoding data
+2024-04-28 00:23:18,757 - my_logger - INFO - Feature Engineering
+2024-04-28 00:23:18,757 - my_logger - INFO - Encoding data
+2024-04-28 00:23:18,775 - my_logger - INFO - Feature Engineering
+2024-04-28 00:23:18,775 - my_logger - INFO - Encoding data
+2024-04-28 00:23:18,790 - my_logger - INFO - Training Model
+2024-04-28 00:26:15,072 - my_logger - INFO - saving best model
+2024-04-28 00:26:15,505 - my_logger - INFO - Generating Classification Reports
+2024-04-28 00:30:24,173 - my_logger - INFO - Generating Feature Importance Reports
+2024-04-28 00:35:53,178 - my_logger - INFO - Importing datat from : ./data/bank_data.csv
+2024-04-28 00:35:53,202 - my_logger - INFO - Importing datat from : ./data/bank_data.csv
+2024-04-28 00:35:53,224 - my_logger - INFO - Performing EDA
+2024-04-28 00:35:55,157 - my_logger - INFO - Encoding data
+2024-04-28 00:35:55,168 - my_logger - INFO - Feature Engineering
+2024-04-28 00:35:55,169 - my_logger - INFO - Encoding data
+2024-04-28 00:35:55,188 - my_logger - INFO - Feature Engineering
+2024-04-28 00:35:55,188 - my_logger - INFO - Encoding data
+2024-04-28 00:35:55,205 - my_logger - INFO - Training Model
+2024-04-28 00:38:53,809 - my_logger - INFO - saving best model
+2024-04-28 00:38:54,221 - my_logger - INFO - Generating Classification Reports
+2024-04-28 00:38:55,147 - my_logger - INFO - Generating Feature Importance Reports
+2024-04-28 00:42:47,618 - my_logger - INFO - Importing datat from : ./data/bank_data.csv
+2024-04-28 00:42:47,644 - my_logger - INFO - Importing datat from : ./data/bank_data.csv
+2024-04-28 00:42:47,676 - my_logger - INFO - Performing EDA
+2024-04-28 00:42:49,378 - my_logger - INFO - Encoding data
+2024-04-28 00:42:49,391 - my_logger - INFO - Feature Engineering
+2024-04-28 00:42:49,392 - my_logger - INFO - Encoding data
+2024-04-28 00:42:49,411 - my_logger - INFO - Feature Engineering
+2024-04-28 00:42:49,411 - my_logger - INFO - Encoding data
+2024-04-28 00:42:49,427 - my_logger - INFO - Training Model
+2024-04-28 00:45:49,089 - my_logger - INFO - saving best model
+2024-04-28 00:45:49,574 - my_logger - INFO - Generating Classification Reports
+2024-04-28 00:45:50,584 - my_logger - INFO - Generating Feature Importance Reports

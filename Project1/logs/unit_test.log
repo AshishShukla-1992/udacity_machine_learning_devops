@@ -1,0 +1,30 @@
+2024-04-27 21:31:35,633 - my_logger_2 - INFO - Testing import_data: SUCCESS
+2024-04-27 21:31:35,655 - my_logger_2 - INFO - Testing import_data: SUCCESS
+2024-04-27 21:31:37,394 - my_logger_2 - INFO - Testing EDA: SUCCESS
+2024-04-27 21:31:37,412 - my_logger_2 - INFO - Encoder Helper Test Success
+2024-04-27 21:31:37,429 - my_logger_2 - INFO - Feature Engineering Test Successful
+2024-04-27 21:34:43,487 - my_logger_2 - INFO - Testing Train Models SUCCESS
+2024-04-28 00:13:52,624 - my_logger_2 - INFO - Testing import_data: SUCCESS
+2024-04-28 00:13:52,647 - my_logger_2 - INFO - Testing import_data: SUCCESS
+2024-04-28 00:13:54,336 - my_logger_2 - INFO - Testing EDA: SUCCESS
+2024-04-28 00:13:54,352 - my_logger_2 - INFO - Encoder Helper Test Success
+2024-04-28 00:13:54,368 - my_logger_2 - INFO - Feature Engineering Test Successful
+2024-04-28 00:16:53,748 - my_logger_2 - INFO - Testing Train Models SUCCESS
+2024-04-28 00:23:17,057 - my_logger_2 - INFO - Testing import_data: SUCCESS
+2024-04-28 00:23:17,081 - my_logger_2 - INFO - Testing import_data: SUCCESS
+2024-04-28 00:23:18,744 - my_logger_2 - INFO - Testing EDA: SUCCESS
+2024-04-28 00:23:18,755 - my_logger_2 - INFO - Encoder Helper Test Success
+2024-04-28 00:23:18,774 - my_logger_2 - INFO - Feature Engineering Test Successful
+2024-04-28 00:30:24,508 - my_logger_2 - INFO - Testing Train Models SUCCESS
+2024-04-28 00:35:53,200 - my_logger_2 - INFO - Testing import_data: SUCCESS
+2024-04-28 00:35:53,223 - my_logger_2 - INFO - Testing import_data: SUCCESS
+2024-04-28 00:35:55,156 - my_logger_2 - INFO - Testing EDA: SUCCESS
+2024-04-28 00:35:55,167 - my_logger_2 - INFO - Encoder Helper Test Success
+2024-04-28 00:35:55,186 - my_logger_2 - INFO - Feature Engineering Test Successful
+2024-04-28 00:38:55,389 - my_logger_2 - INFO - Testing Train Models SUCCESS
+2024-04-28 00:42:47,642 - my_logger_2 - INFO - Testing import_data: SUCCESS
+2024-04-28 00:42:47,675 - my_logger_2 - INFO - Testing import_data: SUCCESS
+2024-04-28 00:42:49,377 - my_logger_2 - INFO - Testing EDA: SUCCESS
+2024-04-28 00:42:49,389 - my_logger_2 - INFO - Encoder Helper Test Success
+2024-04-28 00:42:49,409 - my_logger_2 - INFO - Feature Engineering Test Successful
+2024-04-28 00:45:50,847 - my_logger_2 - INFO - Testing Train Models SUCCESS
